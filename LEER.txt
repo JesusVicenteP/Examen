@@ -1,0 +1,3 @@
+Puede checar las apis en postman importando el documento
+Examen Backend 
+Todo lo que se necesita para checar su funcionamiento esta en el body.
